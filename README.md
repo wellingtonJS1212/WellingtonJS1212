@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Wellington José da Silva, tenho 37 anos e sou natural de Jaboatão dos Guararapes. Estou cursando Análise e Desenvolvimento de Sistemas na ESTÁcio. Sou apaixonado por tecnologias.
+Me chamo Wellington José da Silva, tenho 37 anos e sou natural de Jaboatão dos Guararapes. Estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologias.
 
 <p align="left">
     <a href="https://github.com/wellingtonJS1212">
